@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    height: 200px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ppTicGRf5JvhyjQ-FdS4fIAadQq0MxHhGA&usqp=CAU")
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+    color: Yellow;
+}
+
+.link-nav{
+    background-image: linear-gradient(white);
+    text-decoration: none;ite
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;}
+
+    .link-nav:hover{
+background-image: linear-gradient(white);
+    }
+
+    main{
+    background-image: linear-gradient(white);
+}
+
+footer{
+    background-image: linear-gradient(yellow);
+    font-size: 18px;
+}
